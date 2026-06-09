@@ -1,5 +1,5 @@
 # Texas-Hold-em-source-code
-德州源码合集 |德州源码|德州源码| 德州｜德州纯源码|捕鱼源码|AI源码|IM源码|Flutter源码|游戏源码|德州纯原码可下载运营 | 含俱乐部/金币大厅/多人对战版本→免费获取：Tg：@taibaibaba
+德州源码合集 |德州源码|德州源码| 德州｜德州纯源码|捕鱼源码|AI源码|IM源码|Flutter源码|游戏源码|德州纯原码可下载运营 | 含俱乐部/金币大厅/多人对战版本
 # Texas-Hold-em-source-code  德州源码，德州扑克，德州俱乐部，德州金币大厅
 
 # 德州扑克源码合集（Texas Hold'em Source Code Collection）
@@ -57,7 +57,7 @@
 
 有多种德州扑克源码的产品，可以下载运营，德州源码，德州俱乐部，德州金币大厅都有的。
 
-十多个不同类型的德州游戏源码，纯原码哦，可以去官网免费下载的；
+十多个不同类型的德州游戏源码，纯原码哦，可以添加TG去下载的；
 
 <img width="564" height="979" alt="image" src="https://github.com/user-attachments/assets/f3636d09-51a7-4ecb-b300-3a705b02be3a" />
 <img width="563" height="1218" alt="image" src="https://github.com/user-attachments/assets/07458dfc-3639-4f0f-afa5-31345a802c99" />

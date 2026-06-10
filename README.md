@@ -28,9 +28,7 @@
 | 多种版本 | 俱乐部模式、金币模式、比赛模式 |
 | 跨平台 | 支持 iOS、Android、PC网页版 |
 
-## 🚀 如何获取完整源码
 
-1. 添加 **TG：@taibaibaba**
 
 
 ## 🔧 技术栈示例（不同版本可能不同）
@@ -56,6 +54,8 @@
 有多种德州扑克源码的产品，可以下载运营，德州源码，德州俱乐部，德州金币大厅都有的。
 
 十多个不同类型的德州游戏源码，纯原码哦
+<img width="1277" height="624" alt="image" src="https://github.com/user-attachments/assets/f84ec320-e660-4f26-b204-88f3a2716bc7" />
+<img width="1274" height="612" alt="image" src="https://github.com/user-attachments/assets/8f7a793a-31db-45d5-ab93-e3474c70cea9" />
 
 <img width="564" height="979" alt="image" src="https://github.com/user-attachments/assets/f3636d09-51a7-4ecb-b300-3a705b02be3a" />
 <img width="563" height="1218" alt="image" src="https://github.com/user-attachments/assets/07458dfc-3639-4f0f-afa5-31345a802c99" />

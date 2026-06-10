@@ -12,8 +12,6 @@
 - 金币大厅（虚拟币模式）
 - 10+ 种不同类型的德州扑克游戏变种
 
-> 📌 **所有完整源码（纯原码，非片段）均可免费下载，如需详细沟通可以联系Telegram：**  
-> 👉 **[Tg：@taibaibaba](Tg：@taibaibaba)**
 
 ## 📋 本仓库内容
 - 每个源码包的简要介绍
@@ -57,7 +55,7 @@
 
 有多种德州扑克源码的产品，可以下载运营，德州源码，德州俱乐部，德州金币大厅都有的。
 
-十多个不同类型的德州游戏源码，纯原码哦，可以添加TG去下载的；
+十多个不同类型的德州游戏源码，纯原码哦
 
 <img width="564" height="979" alt="image" src="https://github.com/user-attachments/assets/f3636d09-51a7-4ecb-b300-3a705b02be3a" />
 <img width="563" height="1218" alt="image" src="https://github.com/user-attachments/assets/07458dfc-3639-4f0f-afa5-31345a802c99" />
@@ -68,5 +66,9 @@
 <img width="2160" height="1920" alt="image" src="https://github.com/user-attachments/assets/1a0e4242-5f97-48fe-ab67-dfd09da56ff7" />
 
 
+# 更多技术案例
 
+更多商业项目架构分析与案例研究：
+
+https://www.sellsourcecode.top/
 

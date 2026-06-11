@@ -1,6 +1,5 @@
-# Texas-Hold-em-source-code
-德州扑克游戏架构与技术方案研究|德州源码合集 |德州源码|德州源码| 德州｜德州纯源码|捕鱼源码|AI源码|IM源码|Flutter源码|游戏源码|德州纯原码可下载运营 | 含俱乐部/金币大厅/多人对战版本
-# Texas-Hold-em-source-code  德州源码，德州扑克，德州俱乐部，德州金币大厅
+# Texas Hold'em Poker Source Code
+德州扑克游戏架构与技术方案研究|德州扑克源码|德州源码| 德州|捕鱼源码|AI源码|IM源码|Flutter源码|游戏源码| 含俱乐部/德州俱乐部/多人对战版本
 
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
